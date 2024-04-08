@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/imhicihu/Enlaces/blob/main/images/header.png?raw=true" alt="Logotipo de Enlaces"/>
+  <img src="https://github.com/imhicihu/Enlaces/blob/main/images/header.png?raw=true" alt="Logotipo de repositorio .dotfiles"/>
 </p>
 <br>
 </br>
