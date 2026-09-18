@@ -4,7 +4,7 @@
 <br>
 </br>
 
-# Rationale / [Motivación](LEEME.md)
+## Rationale / [Motivación](LEEME.md)
 
 * This internal project reflects our needs to automatize environment settings in a mac operating system.
 * This is a living document that will evolve from time to time.
