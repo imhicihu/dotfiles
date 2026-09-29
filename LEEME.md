@@ -6,7 +6,7 @@
 
 ## Motivación / [Rationale](README.md)
 
-* Este proyecto interno responde a nuestra necesidad de automatizar la configuración del entorno en un sistema operativo Mac.
+* Este proyecto interno responde a nuestra necesidad de [automatizar](https://github.com/imhicihu/Automation/) la configuración del entorno en un sistema operativo Mac.
 * Se trata de un documento en constante evolución que irá actualizándose periódicamente.
 
 ### Proceso de instalación
