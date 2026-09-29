@@ -6,8 +6,8 @@
 
 ## Rationale / [Motivación](LEEME.md)
 
-* This internal project reflects our needs to automatize environment settings in a mac operating system.
-* This is a living document that will evolve from time to time.
+* This internal project reflects our needs to [automatize](https://github.com/imhicihu/Automation/) environment settings in a mac operating system
+* This is a living document that will evolve from time to time
 
 ### Install
 
